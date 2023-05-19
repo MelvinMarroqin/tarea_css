@@ -1,4 +1,4 @@
-.lobo {
+.castor {
     --pinguino-barriga: gray;
     --pinguino-pico: yellow;
     position: relative;
@@ -129,7 +129,7 @@
     background-color: aquamarine;
   }
   
-  .lobo * {
+  .castor * {
     position: absolute;
     }
   
